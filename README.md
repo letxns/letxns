@@ -1,7 +1,6 @@
 ### Olá! 👋
 
 - 🌱 Atualmente estou estudando Javascript
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/letxns">
