@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🌱 Atualmente estou estudando Javascript
+- 🌱 Atualmente sou aluna da turma de Desenvolvimento Web Fullstack da Resilia
 
 <div align="center">
   <a href="https://github.com/letxns">
