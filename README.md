@@ -1,7 +1,7 @@
 ### Olá, sou a Leticia! 👋
 
-- 🔭 Trabalho como Software Developer na Proffer.
-- 🌱 Tenho conhecimento em Javascript | NodeJs | React 
+- 🔭 Trabalho como Software Developer
+- 🌱 Tenho conhecimento em Javascript | Node | React 
 - 😄 Fun Fact: Sou formada em História
 
 <br>
