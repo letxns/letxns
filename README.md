@@ -2,7 +2,6 @@
 
 - 🔭 Trabalho como Software Developer
 - 🌱 Tenho conhecimento em Javascript | Node | React 
-- 😄 Fun Fact: Sou formada em História
 
 <br>
 <div align="center">
