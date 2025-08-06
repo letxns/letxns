@@ -13,7 +13,7 @@ In addition to building responsive and accessible interfaces, I also work on dev
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,8 +30,8 @@ In addition to building responsive and accessible interfaces, I also work on dev
 
 ---
 
-### 📫 Onde me encontrar
-  
+### 📫 Where to Find Me
+
  <div> 
   <a href="https://www.linkedin.com/in/leticia-smartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:smartins.leticia@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
