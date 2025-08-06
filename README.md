@@ -1,12 +1,9 @@
-### Olá! Sou a Leticia 👋
+### Hello! I'm Leticia 👋
+I'm a software developer focused on building scalable, high-performance solutions centered on user experience. I have hands-on experience developing fullstack applications using JavaScript, TypeScript, React, Vue.js, Node.js, and Python, always with attention to code quality, automated testing (Jest, Cypress), and solid architectural practices.
 
-Sou desenvolvedora de software com foco em criar soluções escaláveis, performáticas e centradas na experiência do usuário. Tenho experiência em aplicações fullstack usando **JavaScript**, **TypeScript**, **React**, **Vue.js**, **Node.js** e **Python**, sempre com atenção à qualidade de código, testes automatizados (Jest, Cypress) e boas práticas de arquitetura.
+In addition to building responsive and accessible interfaces, I also work on developing robust APIs using both relational and non-relational databases (PostgreSQL, MongoDB), along with tools like Docker, Git, and AWS services to ensure consistent pipelines and secure deployments.
 
-Além de construir interfaces responsivas e acessíveis, também atuo no desenvolvimento de APIs robustas, utilizando bancos de dados relacionais e não-relacionais (PostgreSQL, MongoDB), ferramentas como **Docker**, **Git** e serviços **AWS** para garantir pipelines consistentes e deploys seguros.
-
-👩‍🏫 Também atuei como instrutora de desenvolvimento web, capacitando novos talentos e fortalecendo habilidades de comunicação técnica, empatia e liderança.
-
-🚀 O que me move é resolver problemas reais com tecnologia, aprender constantemente e colaborar com times que valorizam excelência técnica e impacto no produto.
+👩‍🏫 I’ve also worked as a web development instructor, helping train new talents while strengthening technical communication, empathy, and leadership skills.
 
 ---
 
